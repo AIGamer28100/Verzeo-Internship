@@ -1,7 +1,7 @@
 # Verzeo-Internship
 We have to build a model that will take human image data and classify the images as of Indian origin human from others. The dataset should comprise images of humans with different skin tones (Fair, Mild, and Dark) and the model should be able to give optimal prediction results for both males and females image.
 
-For the dataset [click here](https://drive.google.com/drive/folders/1sdDhljItNxAFH7GT--6oN3oxA9l2TMi-?usp=sharing) and pretrained model [click here](https://drive.google.com/file/d/1aalVxx49sSRxIsNhfO13zN8bvy9OqA_l/view?usp=sharing)
+Click here for the raw [dataset](https://drive.google.com/drive/folders/1sdDhljItNxAFH7GT--6oN3oxA9l2TMi-?usp=sharing) and [pretrained model](https://drive.google.com/file/d/1aalVxx49sSRxIsNhfO13zN8bvy9OqA_l/view?usp=sharing)
 
 # PROJECT DESCRIPTION:
 
